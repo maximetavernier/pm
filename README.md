@@ -1,4 +1,4 @@
-### Playlist Manager ###
+# Playlist Manager #
 
 ## Note ##
 
@@ -25,4 +25,4 @@ Then to see the web-app, you need to go on a browser, on url "localhost:8080".
 
 ## Authors ##
 
-* Maxime Tavernier <maximetavernier92@gmail.com>
+* Maxime Tavernier (<maximetavernier92@gmail.com>)
