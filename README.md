@@ -21,7 +21,7 @@ the code.
 To use the dev mode (start a server locally on port 8080), you need to type "npm run dev". This
 will automatically compile the code, using "npm run pm" and start the server.
 
-Then to see the web-app, you need to go on a browser, on url "localhost:8080".
+Then to see the web-app, you need to go on a browser, on url "<localhost:8080>".
 
 ## Authors ##
 
